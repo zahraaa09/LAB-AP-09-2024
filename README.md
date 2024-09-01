@@ -12,7 +12,7 @@ Buat akun GitHub (https://github.com/)
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-AP-10-2024.git
+   git clone https://github.com/YOUR_USERNAME/LAB-AP-09-2024.git
 
    ```
 
@@ -20,7 +20,7 @@ Buat akun GitHub (https://github.com/)
 
    ```sh
 
-   cd LAB-AP-10-2024
+   cd LAB-AP-09-2024
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
@@ -82,7 +82,7 @@ Buat akun GitHub (https://github.com/)
    #3. Scroll ke bagian bawah dan pilih menu Dveloper settings
    #4. Pilih Prsonal access tokens
    #5. Pilih Generate new tokes
-   #6. Tuliskan note untuk token anda (ex: Token for LAB-AP-10-2024)
+   #6. Tuliskan note untuk token anda (ex: Token for LAB-AP-09-2024)
    #7. Atur waktu expiration token anda (sesuai keinginan anda)
    #8. Pada select scope, ceklis box repo
    #9. Klik generate new token
